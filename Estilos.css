@@ -1,0 +1,17 @@
+.principal {
+    background-color: gray;
+    width: 816px;
+    
+}
+.contenedor {
+background-color: white;
+width: 400px;
+text-align: center;
+position: relative;
+left: 208px;
+
+}
+.contenedor2 {
+    background-color: white;
+    width: 810px;
+}
